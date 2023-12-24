@@ -1,6 +1,6 @@
 {
-  "homepage": "https://soham2543.github.io/TextUtils-React",
-  "name": "textutils",
+  "homepage": "https://textutils-reactapp.web.app",
+  "name": "texttrendify",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -8,8 +8,14 @@
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
     "@types/react-router": "^5.1.20",
+    "axios": "^1.5.1",
+    "franc": "^6.1.0",
+    "franc-min": "^6.1.0",
     "gh-pages": "^5.0.0",
+    "google-translate-api": "^2.3.0",
+    "jspdf": "^2.5.1",
     "react": "^18.2.0",
+    "react-bootstrap": "^2.9.1",
     "react-dom": "^18.2.0",
     "react-router-dom": "^6.14.2",
     "react-scripts": "5.0.1",
@@ -43,6 +49,8 @@
   },
   "devDependencies": {
     "@types/react": "^18.2.18",
-    "@types/react-dom": "^18.2.7"
+    "@types/react-dom": "^18.2.7",
+    "file-loader": "^6.2.0",
+    "url-loader": "^4.1.1"
   }
 }
